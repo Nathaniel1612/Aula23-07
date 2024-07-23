@@ -1,0 +1,13 @@
+h1{
+    color: aquamarine;
+}
+h2{
+    color: rgba(30, 163, 216, 0.849);
+}
+.bebidas{
+    width:80%;
+    border:solid rgb(133, 229, 241) 1px;
+    padding: 15px;
+    margin: 20px;
+}
+   
