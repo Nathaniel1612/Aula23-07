@@ -1,3 +1,7 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1{
     color: aquamarine;
 }
@@ -5,9 +9,19 @@ h2{
     color: rgba(30, 163, 216, 0.849);
 }
 .bebidas{
-    width:80%;
+    width:400px;
     border:solid rgb(133, 229, 241) 1px;
     padding: 15px;
     margin: 20px;
+    box-shadow:10px 10px  rgb(142, 179, 201);
 }
-   
+#ca{
+
+    color:rgb(131, 215, 236)
+
+}
+.imagem-bebidas{
+    width:100px ;
+    margin:10px ;
+    
+}
